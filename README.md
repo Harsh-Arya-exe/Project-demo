@@ -1,6 +1,6 @@
 # Project-demo2
 This is a demo repo\
-#This is 2nd line\
+#This is 2nd line
 "State	City	Approved	Rejected"
 "Andhra Pradesh	Ananthapur	471	215	"
 "Andhra Pradesh	Chittoor	214	64	"
